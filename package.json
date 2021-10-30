@@ -1,23 +1,20 @@
 {
-  "name": "cra-template",
-  "version": "1.1.2",
+  "name": "cra-template-cleanest",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
     "template"
   ],
-  "description": "The base template for Create React App.",
+  "description": "A clean template alternative for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/guilfer-dev/cra-template-cleanest.git",
+    "directory": "."
   },
   "license": "MIT",
   "engines": {
     "node": ">=14"
-  },
-  "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
   },
   "files": [
     "template",
